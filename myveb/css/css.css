@@ -1,0 +1,108 @@
+div{
+text-align: left;
+    border: 1px #444;
+    padding: 10px;
+    font-family:
+    
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #F3EAE2;
+    border-bottom: 10px grey;
+    font-family: Comic Sans MS, Comic Sans, cursive, sans-serif;
+    border: solid 2px #02182B;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #AFDCD8;
+    border: solid 2px #02182B;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #02182B;
+    border: solid 2px  #02182B;
+}
+.menu div{
+    background-color:;
+    border: 2px red;
+    font-size: 20px;
+    
+}
+.he-1{
+    width: 100%;
+    font-family:"Lucida Console", Monaco;
+}
+.he-2{
+    width: 20%;
+}
+.block-1{
+     width: 100%; 
+     background-color: #AFDCD8;
+} 
+.block-2{
+    width: 30%;
+    background-color: #D7263D;
+}
+.he-2 img{
+    width: 20%
+
+}
+.block-2-2 img{
+    text-align: center;
+    border: 2px #02182B solid;
+    width: 500px;
+    margin: 10px;
+}
+
+h1 {
+    font-family: Comic Sans MS, Comic Sans, cursive, sans-serif;
+    font-size: 310%
+    
+}
+
+h2 {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 30px;
+}
+
+h2 {
+  font-family: Impact, Charcoal, sans-serif
+}
+.container {
+    background-color:  #D7263D;
+    border: solid 2px #02182B;
+      
+}
+
+
+
+
+p {
+    text-align: center;
+}
+
+a {
+    
+}
+
+.button {
+    background-color:  #F3EAE2;
+    border-radius: 15px;
+    text-decoration:none;
+    padding: 5px;
+    border: solid 2px #02182B;
+    color: black;
+}
+
+.glery {
+    margin: 20px;
+    float:  center;
+    border: solid 10px #02182B;
+}
